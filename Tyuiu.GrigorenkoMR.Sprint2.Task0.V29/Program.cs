@@ -7,9 +7,9 @@ namespace Tyuiu.GrigorenkoMR.Sprint2.Task0.V29
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Григоренко М. Р. | ИСПб - 26 - 1";
+            Console.Title = "Спринт #2 | Выполнил: Григоренко М. Р. | ИСПб - 26 - 1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
